@@ -1,4 +1,14 @@
-### Hi there 👋
+## Valentino Stania
+Hello, im a Software Engineering student in Vocational High School. Im currently learning Javascript and Nodejs.
+
+## Contact
+
+* Twitter : https://twitter.com/valentino_cfs
+* Instagram : https://instagram.com/valentino.cfs
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinocfs&show_icon=true&theme=tokyonight" alt="valentinocfs" />
 
 <!--
 **valentinocfs/valentinocfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
