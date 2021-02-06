@@ -1,5 +1,5 @@
 ## Valentino Stania
-Hello, im a Software Engineering student in Vocational High School. Im currently learning Javascript and Nodejs.
+Hello, I'm a Software Engineering student in Vocational High School. Im currently learning Javascript and Nodejs.
 
 ## Contact
 
