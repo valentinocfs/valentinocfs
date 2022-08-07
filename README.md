@@ -1,10 +1,11 @@
 ## Valentino Stania
-Hello, I'm a Software Engineering student in Vocational High School. Im currently learning Javascript and Nodejs.
+Hello, I'm a Software Engineering student in Vocational High School. Im currently learning React and Laravel.
 
 ## Contact
 
+* Email : valentinostania@gmail.com
 * Twitter : https://twitter.com/valentino_cfs
-* Instagram : https://instagram.com/valentino.cfs
+* Instagram : https://instagram.com/valentinocfs
 
 ---
 
