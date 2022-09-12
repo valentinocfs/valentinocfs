@@ -1,7 +1,7 @@
 <h1 align="center">HI! I'M VALENTINO STANIA <img height="40" src="https://emoji.gg/assets/emoji/7914_indonesiaparrot.gif"></h1>
-<h3 align="center">A passionate FrontEnd Developer from Indonesia</h3>
+<h3 align="center">A passionate Frontend Developer from Indonesia</h3>
 
-<p align="center">Interested in learning and exploring more about Frontend Web and Android development</p>
+<p align="center">Interested in learning and exploring more about Frontend Web and Android Development.</p>
 
 <!--
 - 🔭 I’m currently working on ...
