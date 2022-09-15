@@ -20,9 +20,6 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/valentino_cfs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="36" alt="Twitter logo"  />
-  </a>
   <a href="https://linkedin.com/in/valentino-s-9643131b6/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="Linkedin logo"  />
    <a href="https://instagram.com/valentinocfs/" target="_blank">
